@@ -7,6 +7,7 @@ you can set character varables like "A" "B" "C" (upper or lowercase)
 # example
 
 A=2
+
 1+A
 
 =3
